@@ -1,0 +1,7 @@
+How to run this program
+1) Copy logreg.py file and csv for which you want to test data in single folder
+2) Run command python3 logreg.py to run program
+3) Program will prompt for input the file name (csv) from you 
+4) Enter the correct file name with extension
+5) This program works for 2 independant variable and 1 dependendant variable
+6) 1st 2 columns of CSV should independant variales and 3rd column should be dependant variable(also it must have value 0 or 1)
